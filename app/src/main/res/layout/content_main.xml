@@ -23,9 +23,21 @@
    <Button
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:id="@+id/b1"
+       android:id="@+id/b2"
        android:text="Insert"
        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/e4"
+        android:hint="Enter Username"
+        />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/b1"
+        android:text="Insert"
+        />
 
 </LinearLayout>
